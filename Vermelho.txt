@@ -1,0 +1,4 @@
+$ git status
+On branch master
+
+Vamos tentar alterar as coisas de uma vez por todas. 
