@@ -1,0 +1,10 @@
+Curso de Python
+https://www.youtube.com/watch?v=wC_mwNUT48s&list=PLpaKFn4Q4GMN1A4J1FnhW_anOGt8ug8ip
+
+Tipo de Dados 
+
+Primitivos
+Str: Dados tipo texto
+Int: Numeros inteiros
+Float: Numeros com cassas decimais
+Bool: Booleano ou lógico true/false
