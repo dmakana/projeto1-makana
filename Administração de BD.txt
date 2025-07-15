@@ -1,0 +1,93 @@
+Administração de banco de Dados
+
+	- Para ser Administrador de Bases de Dados (também conhecido como DBA - Database Administrator), é necessário
+    	um conjunto de habilidades técnicas, formação, e competências pessoais. Abaixo estão os principais requisitos:
+
+✅ 1. Formação Académica (opcional, mas recomendada)
+Licenciatura ou curso técnico em:
+
+Informática
+
+Engenharia de Software
+
+Sistemas de Informação
+
+Ciências da Computação
+
+✅ 2. Conhecimentos Técnicos Essenciais
+
+Linguagens e conceitos:
+SQL (Structured Query Language)
+
+NoSQL (MongoDB, Cassandra, etc. – para bases de dados não-relacionais)
+
+PL/SQL (Oracle) ou T-SQL (SQL Server)
+
+Sistemas de gestão de bases de dados (SGBDs):
+Relacionais:
+
+MySQL/MariaDB
+
+PostgreSQL
+
+Oracle Database
+
+Microsoft SQL Server
+
+Não-relacionais (NoSQL):
+
+MongoDB
+
+Redis
+
+Cassandra
+
+✅ 3. Competências em Administração
+
+✅ 3. Competências em Administração
+Instalação e configuração de SGBDs
+
+Gestão de utilizadores e permissões
+
+Backup e restauração (disaster recovery)
+
+Monitoramento de performance (tuning de queries, índices)
+
+Atualizações e patching de sistemas
+
+Replicação e alta disponibilidade
+
+Planeamento de capacidade e escalabilidade
+
+✅ 4. Conhecimentos Complementares
+Sistemas Operativos: Linux/Unix e Windows Server
+
+Redes: conceitos básicos de rede, firewall, portas, etc.
+
+Segurança da Informação
+
+Ferramentas de monitorização (ex: Zabbix, Prometheus, Nagios)
+
+Cloud: bases de dados na nuvem (AWS RDS, Azure SQL, Google Cloud SQL)
+
+✅ 5. Certificações (valorizadas no mercado)
+Oracle Certified Professional (OCP)
+
+Microsoft Certified: Azure Database Administrator
+
+AWS Certified Database – Specialty
+
+MongoDB Certified DBA
+
+PostgreSQL Certified Professional
+
+✅ 6. Competências Pessoais
+Raciocínio lógico e atenção ao detalhe
+
+Boa capacidade de resolução de problemas
+
+Organização e disciplina
+
+Capacidade de trabalhar sob pressão (ex: falhas ou emergências)
+
+Boa comunicação (para lidar com equipes de desenvolvimento, segurança, infra, etc.)
