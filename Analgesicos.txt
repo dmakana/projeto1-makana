@@ -1,2 +1,1 @@
 $ git status
-On branch master. Verdura de uma boa posição.

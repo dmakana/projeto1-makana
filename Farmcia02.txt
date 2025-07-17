@@ -8,11 +8,3 @@ dmakana
 Initial commit
 a9ed8eb
  · 
-3 days ago
-README.md
-Initial commit
-3 days ago
-Repository files navigation
-README
-projeto1-makana
-Tutotrial inicial do git
