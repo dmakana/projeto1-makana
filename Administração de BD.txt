@@ -1,4 +1,5 @@
-Administração de banco de Dados
+Administração de banco de Dados.
+Vale
 
 	- Para ser Administrador de Bases de Dados (também conhecido como DBA - Database Administrator), é necessário
     	um conjunto de habilidades técnicas, formação, e competências pessoais. Abaixo estão os principais requisitos:

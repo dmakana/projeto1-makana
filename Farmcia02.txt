@@ -1,10 +1,5 @@
 Verficação original
 dmakana/projeto1-makana
 Go to file
-t
-Name		
-dmakana
-dmakana
-Initial commit
-a9ed8eb
- · 
+
+
