@@ -27,17 +27,6 @@ PL/SQL (Oracle) ou T-SQL (SQL Server)
 Sistemas de gestão de bases de dados (SGBDs):
 Relacionais:
 
-MySQL/MariaDB
-
-PostgreSQL
-
-Oracle Database
-
-Microsoft SQL Server
-
-Não-relacionais (NoSQL):
-
-MongoDB
 
 Redis
 
